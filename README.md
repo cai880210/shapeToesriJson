@@ -1,5 +1,6 @@
 # shapefile2geojson
-
+# geojson2esrijson
+# 
 Transform shapefile (shp & dbf) to geojson.
 
 first：import shapefile2geojson.js;
